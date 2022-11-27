@@ -483,7 +483,7 @@ body {
   background: #FF4A78;
 }
 
-.active-search-link > .navigation-icon {
+.active-search-link>.navigation-icon {
   fill: #fff;
 }
 
@@ -572,7 +572,7 @@ body {
   color: #FCFCFC;
 }
 
-.active-navigation-link > svg {
+.active-navigation-link>svg {
   fill: #FCFCFC;
 }
 
@@ -2199,7 +2199,7 @@ fieldset {
   border: 1.3px solid #fcfcfc;
 }
 
-.control-input[type="radio"]:focus-visible ~ .control-mark {
+.control-input[type="radio"]:focus-visible~.control-mark {
   border: 1.3px solid #fcfcfc;
 }
 
